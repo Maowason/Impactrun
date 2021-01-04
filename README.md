@@ -10,8 +10,8 @@ Total distance covered,
 Current streak, 
 Max streak,
 Achievements won. 
-From a Database and shows it to the client
+From a Database and shows it to the client<br>
 Desktop View:
-![](images/result_pc.JPG)
-Mobile View:
+![](images/result_pc.JPG)<br>
+Mobile View:<br>
 ![](images/result_mob.JPG)
